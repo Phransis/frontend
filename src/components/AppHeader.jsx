@@ -11,7 +11,7 @@ function AppHeader() {
       <Typography.Title>{yourName}`s Dashboard</Typography.Title>
       <Space>
         <Badge count ={15}>
-        <MailOutlined style={{fontSize:24}}></MailOutlined>
+        <MailOutlined style={{fontSize:24}}>Testing</MailOutlined>
         </Badge>
         <Badge count ={150}>
         <BellFilled style={{fontSize:24}}></BellFilled>
